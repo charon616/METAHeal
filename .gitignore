@@ -79,3 +79,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Meta XR local LLM model (>100MB; not used in Health app build)
+Assets/MetaXR/Smol_Uint8.sentis
+Assets/MetaXR/Smol_Uint8.sentis.meta
